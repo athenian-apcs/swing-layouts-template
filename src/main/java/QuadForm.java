@@ -13,8 +13,8 @@ public class QuadForm {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         //3. Create components and put them in the frame.
-        JPanel inputPanel = new JPanel();
-        inputPanel.setLayout(new BoxLayout(inputPanel, BoxLayout.PAGE_AXIS));
+
+        // YOUR CODE HERE
 
         //4. Size the frame.
         // frame.setSize(400, 400);
