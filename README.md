@@ -1,6 +1,6 @@
-# Week 7 Day 1: Swing Introduction
+# Week 7 Day 2: Swing Layouts
 
-In class today, we'll be starting our new unit using Java Swing!
+In class today, we'll be working with layouts and JPanels. 
 
 <br />
 
